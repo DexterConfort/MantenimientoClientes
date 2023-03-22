@@ -8,7 +8,7 @@ namespace Datos
 {
     public class ClienteDB
     {
-        string cadena = "server=localhost; user=root; database=factura; password=123456";
+        string cadena = "server=localhost; user=root; database=factura2; password=123456";
 
         public Cliente DevolverClientePorIdentidad(string identidad)
         {

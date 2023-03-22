@@ -8,7 +8,7 @@ namespace Datos
 {
     public class ProductoDB
     {
-        string cadena = "server=localhost; user=root; database=factura; password=123456";
+        string cadena = "server=localhost; user=root; database=factura2; password=123456";
 
         public Boolean Insertar(Producto producto)
         {

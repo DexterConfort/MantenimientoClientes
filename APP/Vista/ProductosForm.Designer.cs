@@ -116,7 +116,7 @@
             // 
             // ImagenPictureBox
             // 
-            this.ImagenPictureBox.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            this.ImagenPictureBox.BackColor = System.Drawing.Color.White;
             this.ImagenPictureBox.Location = new System.Drawing.Point(736, 34);
             this.ImagenPictureBox.Name = "ImagenPictureBox";
             this.ImagenPictureBox.Size = new System.Drawing.Size(100, 106);
